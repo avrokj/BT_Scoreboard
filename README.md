@@ -34,7 +34,7 @@ ST Visual Develop and programmed with ST-Link V2.
 ## Pildid / Pictures
 
 ![Pocket Scoreboard](assets/new_old.png)
-_Taskutabloo prototüübid / Pocket scoreboard prototypes_
+_Uus ja vana tabloo / New and old scoreboard_
 
 ![New and Old](assets/pocket_scoreboard.png)
-_Uus ja vana tabloo / New and old scoreboard_
+_Taskutabloo prototüübid / Pocket scoreboard prototypes_
