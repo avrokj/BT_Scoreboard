@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/gametime_logo.svg" style="color:#f59e0b" width="280" height="280" alt="GameTime logo">
+<img src="assets/gametime_logo_orange.svg" width="280" height="280" alt="GameTime logo">
 </p>
 </p>
 
