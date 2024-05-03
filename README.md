@@ -1,6 +1,5 @@
 <p align="center">
-<img src="assets/gametime_logo_orange.svg" width="280" height="280" alt="GameTime logo">
-</p>
+    <a href="https://gametime.ee" target="_blank"><img src="assets/gametime_logo_orange.svg" width="280" height="280" alt="GameTime logo"></a>
 </p>
 
 # Taskutabloo / Scoreboard
